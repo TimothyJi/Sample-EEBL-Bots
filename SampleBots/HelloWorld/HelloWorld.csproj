@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="EEBLAPI">
+      <HintPath>D:\Everybody Edits Bot Loader\Everybody Edits Bot Loader\EEBLAPI\bin\Debug\netcoreapp2.0\EEBLAPI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
